@@ -1,0 +1,91 @@
+.body {
+    background-color: lightslategrey;
+}
+
+.nav {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 40px;
+    margin-left: auto;
+    background-color: khaki;
+}
+
+.navlogo {
+    width: 40px;
+    margin-right: auto;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.hero-image {
+    border-radius: 100%
+}
+
+.about {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.about-us-links {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.image-1 {
+    width: 200px;
+}
+
+.image-2 {
+    width: 200px;
+}
+
+.image-3 {
+    width: 200px;
+    margin-bottom: 90px;
+}
+
+.image-4 {
+    width: 200px;
+}
+
+.services {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.service-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-left: 400px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.footer-links {
+    display: flex;
+    gap: 200px;
+}
+
+.fotter {
+    margin-left: 250px;
+}
